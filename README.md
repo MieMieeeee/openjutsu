@@ -1,3 +1,5 @@
+> **MieMieeeee fork** — 本仓库是 [D3voz/openjutsu](https://github.com/D3voz/openjutsu) 的 fork，用于 openjutsu_mie_packaged 整合包的版本锁定与验证（锁定 tag: `sv-2026-10-31`，验证环境 RTX 5080 16G / ComfyUI 0.43.0）。原作者与上游更新请看 [upstream](https://github.com/D3voz/openjutsu)。
+
 # Openjutsu
 
 An open-source, Genjutsu-style character and object swap for video. Drop a video and a character photo, press **Generate**, and the main person in the video is replaced by your character. Or change their hair or clothes, remove something, or put them somewhere else. The camera, cuts, motion and soundtrack stay. Everything runs on open weights on your own GPU: MiniMax H3 for the video, SAM 3.1 to track people, and Qwen3-VL 8B to describe the pictures and shots.
